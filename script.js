@@ -1,1 +1,1 @@
-alert("tung")
+console.log("tung")
